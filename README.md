@@ -21,7 +21,7 @@ This project demonstrates how to build a **Basic LLM App** using **LangChain** a
 ## ⚙️ Steps to Set Up  
 
 ### 1. Copy the Code  
-Copy the code from the file shared with you and paste it into your project folder.  
+Copy the code from the file simplellmLCEL, shared with you and paste it into your project folder.  
 
 ---
 
